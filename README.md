@@ -22,7 +22,7 @@ The dataset has about 1300 rows, each corresponding to an individual. There are 
 
 - Bella: I'm in my second-year of BSC Computer Science.
 - Matthew: I am a International Student studying in my 4th year of studying Management 
-- Jolo: I'm a Filipino in second-year computer science.
+- Jolo: I am in my third-year of BSC Computer Science.
 
 ## Images
 
