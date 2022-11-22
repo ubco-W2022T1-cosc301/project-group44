@@ -7,7 +7,7 @@ def load_and_process(rawData):
     #process data
     df1 = (
         pd.read_csv(rawData)
-        .drop(['region','children', 'sex'], axis=1)
+        .drop(['region','children', 'sex', ''], axis=1)
         .dropna(axis=0)
     )
     
