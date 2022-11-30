@@ -18,9 +18,9 @@
 As males and females age, what trends can be picked up in their medical expenses? At what point in their lives do they pay the highest?
 
 ### Visualizations
-
+Male Data Frame:
 ![Male Data Frame](images/J%20-%20Male%20RegPlot.jpg)
-
+Female Data Frame:
 ![Female Data Frame](images/J%20-%20Female%20RegPlot.jpg)
 
 ### Conclusion/Analysis:
