@@ -11,6 +11,17 @@
 
 ## Bella Visuals + Conclusion
 
+### Research Question:
+Do medical charges rise as a person ages? And is it possible that their BMI or smoking habits may have influenced that?
+
+### Visualizations: 
+Age v. Charges Plot
+![Age v. Charges](images/isabella_pltone.png)
+Age v. Charges (Separated by BMI)
+![Age v. Charges (Separated by BMI)](images/isabella_plttwo.png)
+Age v. Charges (Separated by Smoking Habits)
+![Age v. Charges (Separated by Smoking Habits)](images/isabella_pltthree.png)
+
 ---
 ## Jolo Sesbreno - Analysis 3
 
