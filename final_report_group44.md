@@ -69,3 +69,16 @@ To conclude, there is no clear differences between medical expenses as people ag
 
 ### Note:
 For a more in-depth analysis showing how the data is wrangled and how each visualization is coded. Visit [the full analysis notebook here](notebooks/analysis3.ipynb).
+
+---
+
+## Final Conclusion
+
+By gathering all of our information, we can conclude that generally an individual that has any of the following:
+- older age
+- smokes
+- higher BMI
+- region?
+
+is more likely to receive higher medical expenses. Such expenses are possibly due to medical conditions that come with these factors. 
+    
