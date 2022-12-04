@@ -5,12 +5,8 @@
 Our group chose to move forward with a dataset that contains information on over 1300 U.S. patient's medical expenses and other attributes including their age, bmi, smoking habits, gender, and region. 
 
 By understanding and analyzing the trends between these attributes and medical expenses, we can predict an individual's possible charges by comparing them to these groups. Such findings can even be used as an incentive and encourage a healthier lifestyle.
-  
 
-## EDA Summary
-
-
-
+# Group 44 Member EDA Summaries
 
 ## Matt Visuals + Conclusion
 
@@ -31,8 +27,7 @@ Age v. Charges (Separated by BMI)
 ![Medical charge correspondence with Regions in the United States)](images/matthew_figure4.png)
 Age v. Charges (Separated by Smoking Habits)
 ![Medical Charge Correspondence with Regions in the United States)](images/matthew_figure5.png)
-![Figure 6: BMI and Smoker Data by Region for Medical Patients in the United States)](images/matthew_figure2.png)
-
+![BMI and Smoker Data by Region for Medical Patients in the United States)](images/matthew_figure6.png)
 
 ### Conclusion:
 
